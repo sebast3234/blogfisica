@@ -5,8 +5,8 @@
     text-decoration: none;
     }
     .fondo{
-        background-image: url(./index_files/fondo.jpg) ;
-    
+        /*background-image: url(./index_files/fondo.jpg) ;*/
+    background color: black;
         min-width: 100%;
        min-height: 100%;
         margin-top: -19px;

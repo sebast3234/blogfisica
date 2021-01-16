@@ -243,3 +243,21 @@ color: #f79c21;    text-align: center;
     "iter iter gusano";
     
     }*/
+
+.dark-mode-button{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    padding: 20px;
+    background: red;
+border-radius: 5px;
+margin-left: 156px;
+}
+
+html.dark-mode{
+    filter: invert(100%);
+}
+
+html.dark-mode img{
+    filter: invert(100%);
+}
